@@ -9,7 +9,7 @@
 
 (404)[莆田系医院都有哪些内幕？](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%86%85%E5%B9%95%EF%BC%9F/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%86%85%E5%B9%95%EF%BC%9F.html)
 
-(404)[福建莆田私人医院的历史是怎么样的？](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%A7%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E7%9A%84%E5%8E%86%E5%8F%B2%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%A7%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E7%9A%84%E5%8E%86%E5%8F%B2%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F.html)
+(404)[福建莆田私人医院的历史是怎么样的？](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/e67fb18e/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%A7%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E7%9A%84%E5%8E%86%E5%8F%B2%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%A7%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E7%9A%84%E5%8E%86%E5%8F%B2%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F.html)
 
 [莆田人为什么这么“精明”](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E8%8E%86%E7%94%B0%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E2%80%9C%E7%B2%BE%E6%98%8E%E2%80%9D_%20-%20%E7%9F%A5%E4%B9%8E.html)
 
