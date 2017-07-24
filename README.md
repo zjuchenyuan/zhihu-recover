@@ -1,18 +1,21 @@
 # zhihu-recover
-知乎删除了问题 莆田系医院都有哪些内幕？ 从快照恢复并备份了其他几个莆田系相关问题
+
+对知乎已经删除/可能删除的问题备份
+
+知乎删除了问题 "莆田系医院都有哪些内幕？" 从快照恢复并备份了其他几个莆田系相关问题
 
 
 ## 列表
 
-(404)[莆田系医院都有哪些内幕？](https://cdn.rawgit.com/zjuchenyuan/zhihu-recover/59c1bd57/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%86%85%E5%B9%95%EF%BC%9F/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%86%85%E5%B9%95%EF%BC%9F.html)
+(404)[莆田系医院都有哪些内幕？](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%86%85%E5%B9%95%EF%BC%9F/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%86%85%E5%B9%95%EF%BC%9F.html)
 
-(404)[福建莆田私人医院的历史是怎么样的？](https://cdn.rawgit.com/zjuchenyuan/zhihu-recover/59c1bd57/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%A7%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E7%9A%84%E5%8E%86%E5%8F%B2%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%A7%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E7%9A%84%E5%8E%86%E5%8F%B2%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F.html)
+(404)[福建莆田私人医院的历史是怎么样的？](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%A7%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E7%9A%84%E5%8E%86%E5%8F%B2%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%A7%81%E4%BA%BA%E5%8C%BB%E9%99%A2%E7%9A%84%E5%8E%86%E5%8F%B2%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F.html)
 
-[莆田人为什么这么“精明”](https://cdn.rawgit.com/zjuchenyuan/zhihu-recover/59c1bd57/%E8%8E%86%E7%94%B0%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E2%80%9C%E7%B2%BE%E6%98%8E%E2%80%9D_%20-%20%E7%9F%A5%E4%B9%8E.html)
+[莆田人为什么这么“精明”](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E8%8E%86%E7%94%B0%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E2%80%9C%E7%B2%BE%E6%98%8E%E2%80%9D_%20-%20%E7%9F%A5%E4%B9%8E.html)
 
-[在知乎的医生怎么看待莆田系的医生？](https://cdn.rawgit.com/zjuchenyuan/zhihu-recover/59c1bd57/%E5%9C%A8%E7%9F%A5%E4%B9%8E%E7%9A%84%E5%8C%BB%E7%94%9F%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E8%8E%86%E7%94%B0%E7%B3%BB%E7%9A%84%E5%8C%BB%E7%94%9F%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E.html)
+[在知乎的医生怎么看待莆田系的医生？](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E5%9C%A8%E7%9F%A5%E4%B9%8E%E7%9A%84%E5%8C%BB%E7%94%9F%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E8%8E%86%E7%94%B0%E7%B3%BB%E7%9A%84%E5%8C%BB%E7%94%9F%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E.html)
 
-[魏则西怎么样了？](https://cdn.rawgit.com/zjuchenyuan/zhihu-recover/59c1bd57/%E9%AD%8F%E5%88%99%E8%A5%BF%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F.html)
+[魏则西怎么样了？](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E9%AD%8F%E5%88%99%E8%A5%BF%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F.html)
 
 ## 从快照恢复知乎页面方法
 
