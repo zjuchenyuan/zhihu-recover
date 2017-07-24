@@ -33,11 +33,7 @@ data-original替换为src
 
 还可能需要视情况修改meta中charset的设置，例如charset=gb2312替换为charset=utf-8
 
-3.打开网页，截图保存
-
-图片都正常加载啦：
-
-![](http://file.cc98.org/uploadfile/2017/7/24/8511275859.jpg)
+3.打开网页，全页面截图保存
 
 4.(进阶)得到离线版本
 
