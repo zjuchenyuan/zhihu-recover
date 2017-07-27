@@ -1,0 +1,222 @@
+/* use for header style based on old article page view. */
+a,
+a:link,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+body {
+  background: #ebebeb;
+  padding-top: 0;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+.dudu-head {
+  margin: 0 0 30px;
+  height: 90px;
+  box-shadow: 0px 0 3px 0 rgba(0, 0, 0, 0.07);
+  background-color: #fff;
+}
+.dudu-head .logo {
+  padding-top: 20px;
+}
+.dudu-head h1 {
+  height: 48px;
+  display: block;
+  text-indent: 62px;
+  font-size: 26px;
+  color: #0090d0;
+  margin: 0;
+  padding: 0;
+  line-height: 48px;
+  background: transparent url('') 0 0 no-repeat;
+  background-size: 48px 48px;
+}
+.dudu-head .btn-download {
+  float: right;
+  border: solid 1px #00a2e0;
+  color: #00a2e0;
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 25px;
+}
+a.btn-open-app {
+  display: none;
+  float: right;
+  text-indent: 16px;
+  font-size: 13px;
+  color: #00a2e0;
+  background: transparent url('') 0 50% no-repeat;
+  background-size: 8px 14px;
+  line-height: 13px;
+  padding: 21px 0 21px;
+}
+.bottom-download {
+  padding: 0 18px;
+  position: relative;
+  display: none;
+  background: #fafafa;
+  border-bottom: solid 1px #e5e5e5;
+}
+.bottom-download::before {
+  display: block;
+  content: "";
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  border-radius: 10px;
+  top: 36px;
+  left: 50%;
+  border: solid 1px #dedede;
+  margin-left: -34px;
+}
+.bottom-download h2 {
+  display: block;
+  font-size: 13px;
+  color: #808080;
+  padding: 118px 0 12px;
+  text-align: center;
+  background: transparent url('') 50% 36px no-repeat;
+  background-size: 66px 66px;
+  margin: 0;
+  font-weight: bold;
+}
+.bottom-download .meta {
+  font-size: 13px;
+  color: #808080;
+  text-align: center;
+  line-height: 1.5;
+  height: 43px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.bottom-download a.open-app {
+  width: 116px;
+  height: 36px;
+  border-radius: 18px;
+  border: solid 1px #00a2e0;
+  line-height: 36px;
+  font-size: 13px;
+  color: #00a2e0;
+  text-align: center;
+  margin: 0 auto 24px;
+  display: block;
+}
+.bottom-download .foot {
+  border-top: solid 1px #e5e5e5;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  color: #8e8e8e;
+  font-size: 10px;
+}
+.mobile.android .dudu-head .container {
+  padding: 5px 0 2px;
+}
+.mobile.android .dudu-head .logo {
+  padding-top: 17px;
+}
+.mobile.android a.btn-open-app {
+  padding: 22px 0 20px;
+  background-position: 0 20px;
+}
+.mobile .bottom-donwload-web {
+  display: none;
+}
+.mobile .btn-open-app {
+  display: block;
+}
+.mobile .btn-download {
+  display: none;
+}
+.mobile .bottom-download {
+  display: block;
+}
+.mobile .dudu-head {
+  margin: 0;
+  padding: 0 18px;
+  height: 55px;
+  box-shadow: none;
+  border-bottom: solid 1px #dadada;
+}
+.mobile .dudu-head .container {
+  margin: 0;
+  padding: 0;
+  width: auto;
+}
+.mobile .dudu-head .logo {
+  padding-top: 18px;
+}
+.mobile .dudu-head h1 {
+  background-image: url('');
+  background-size: 20px 20px;
+  background-position: 0 50%;
+  font-size: 13px;
+  text-indent: 30px;
+  line-height:13px;
+  height: 13px;
+  padding: 4px 0 3px;
+}
+.bottom-donwload-web {
+  max-width: 600px;
+  margin: 0 auto;
+  background: #fff;
+  text-align: center;
+  position: relative;
+}
+.bottom-donwload-web:before {
+  display: block;
+  content: "";
+  border-bottom: solid 1px #ebebeb;
+  position: absolute;
+  top: 53px;
+  width: 407px;
+  left: 97px;
+}
+.bottom-donwload-web .qr-code-web {
+  padding-top: 322px;
+  padding-bottom: 46px;
+  background: transparent url('') 50% 107px no-repeat;
+  background-size: 200px 200px;
+  line-height: 1;
+  font-size: 18px;
+  color: #808080;
+}
+.bottom-donwload-web .foot {
+  padding: 56px 0;
+  font-size: 13px;
+  color: #8e8e8e;
+  background: #ebebeb;
+}
+/* full screen modal view. */
+.global-hint-modal {
+  position: fixed;
+  display: none;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+}
+.global-hint-modal .arrow {
+  width: 15px;
+  height: 46px;
+  position: absolute;
+  top: 6px;
+  right: 18px;
+}
+.global-hint-modal .text-label {
+  position: absolute;
+  right: 11px;
+  top: 60px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1;
+  display: block;
+}

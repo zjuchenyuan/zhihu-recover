@@ -17,11 +17,13 @@
 
 [魏则西怎么样了？](https://cdn.rawgit.com.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E9%AD%8F%E5%88%99%E8%A5%BF%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F.html)
 
+[知乎用户：哪个瞬间让你突然觉得读书真有用？](https://cdn.rawgit.com/zjuchenyuan/zhihu-recover/d4ed48ac/%E7%9F%A5%E4%B9%8E%E7%94%A8%E6%88%B7%EF%BC%9A%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E8%A7%89%E5%BE%97%E8%AF%BB%E4%B9%A6%E7%9C%9F%E6%9C%89%E7%94%A8%EF%BC%9F.html)
+
 ## 从快照恢复知乎页面方法
 
 虽然百度快照对知乎的支持还是很渣的，但几乎可以确定的一点是：**删帖不会删图片** 至少不会马上删
 
-Ctrl+U查看源代码，发现图片其实是有链接的，只是使用了图片延迟加载的技术，百度快照页面已经过滤掉了js也就导致图片加载不出来
+Ctrl+U查看源代码，发现图片其实是有链接的，只是使用了图片延迟加载的技术，百度快照页面已经过滤掉了js也就导致图片加载不出来；同时知乎的图片是反盗链的，需要设置Referer为zhihu.com才可正常加载
 
 ### 步骤：
 
