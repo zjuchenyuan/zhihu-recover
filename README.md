@@ -17,6 +17,8 @@
 
 (404)[如何评价北航陈小武老师？](https://rawgit.py3.io/zjuchenyuan/zhihu-recover/51cd0bb6/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8C%97%E8%88%AA%E9%99%88%E5%B0%8F%E6%AD%A6%E8%80%81%E5%B8%88%EF%BC%9F.html)
 
+(404)[如何看待上海环卫工罢工？ - 知乎]()
+
 [莆田人为什么这么“精明”](https://rawgit.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E8%8E%86%E7%94%B0%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E2%80%9C%E7%B2%BE%E6%98%8E%E2%80%9D_%20-%20%E7%9F%A5%E4%B9%8E.html)
 
 [在知乎的医生怎么看待莆田系的医生？](https://rawgit.py3.io/zjuchenyuan/zhihu-recover/59c1bd57/%E5%9C%A8%E7%9F%A5%E4%B9%8E%E7%9A%84%E5%8C%BB%E7%94%9F%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E8%8E%86%E7%94%B0%E7%B3%BB%E7%9A%84%E5%8C%BB%E7%94%9F%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E.html)
